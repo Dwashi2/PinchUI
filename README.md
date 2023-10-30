@@ -48,7 +48,7 @@ Open the file PinchUI.xcodeproj
 
 ### Prerequisites
 
-* Xcode 12.4
+* Xcode 15.0
 * iOS 15.0 or more
 * iPhone 15 Pro
 
