@@ -44,12 +44,13 @@ It's a simple app, only to study SwiftUI
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file RestartUI.xcodeproj
+Open the file PinchUI.xcodeproj
 
 ### Prerequisites
 
 * Xcode 12.4
 * iOS 15.0 or more
+* iPhone 15
 
 <!-- CONTACT -->
 ## Contact
