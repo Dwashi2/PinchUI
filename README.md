@@ -31,8 +31,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Dwashi2/RestartUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-10-29%20at%2016.07.02.png" width="248">
-  <img src="https://raw.githubusercontent.com/Dwashi2/RestartUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202023-10-29%20at%2016.06.57.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/PinchUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-30%20at%2020.40.16.png" width="248">
+  <img src="https://raw.githubusercontent.com/Dwashi2/PinchUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-30%20at%2020.40.31.png" width="248">
 </p>
  
  
