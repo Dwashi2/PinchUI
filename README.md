@@ -50,7 +50,7 @@ Open the file PinchUI.xcodeproj
 
 * Xcode 12.4
 * iOS 15.0 or more
-* iPhone 15
+* iPhone 15 Pro
 
 <!-- CONTACT -->
 ## Contact
