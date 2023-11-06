@@ -54,3 +54,5 @@ Open the file PinchUI.xcodeproj
 
 <!-- CONTACT -->
 ## Contact
+
+Danielvertigo@hotmail.com
